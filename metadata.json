@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix IMovies - Movie Ticket Booking Made Simple",
+  "description": "Browse movies, explore showtimes, choose real-time interactive cinema seats, and book tickets seamlessly with instant digital passes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
